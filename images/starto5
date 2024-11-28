@@ -7,7 +7,7 @@ int main() {
     cout<<"please enter your exit time; ";
     cin>>entryTime;
     cout<<"Please enter your exit time: ";
-    cin>>exitTime
+    cin>>exitTime;
 
     period = exitTime - entryTime;
     if(period > 1)
